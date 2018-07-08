@@ -8,7 +8,7 @@ Generate Terraform scripts using Yeomen.
   * RDS
   * S3
 
-* Usage
+### Usage
  * Build
    * ```npm link```
  * Run 
