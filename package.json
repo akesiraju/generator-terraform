@@ -1,0 +1,27 @@
+{
+  "name": "generator-terraform",
+  "version": "1.0.0",
+  "description": "Yo generator for creating terraform scripts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akesiraju/terraform-generator.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "generator",
+    "terraform"
+  ],
+  "author": "Aravind",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akesiraju/terraform-generator/issues"
+  },
+  "homepage": "https://github.com/akesiraju/terraform-generator#readme",
+  "dependencies": {
+    "yeoman-generator": "^2.0.4"
+  }
+}
